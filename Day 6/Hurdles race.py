@@ -16,3 +16,21 @@ while i<6:
     move()
     turn_left()
     i+=1
+
+# Another way
+# def turn_right():
+#     turn_left()
+#     turn_left()
+#     turn_left()
+# def jump_set():
+#     move()
+#     turn_left()
+#     move()
+#     turn_right()
+#     move()
+#     turn_right()
+#     move()
+#     turn_left()
+# for e in range(6):
+#     jump_set()
+    
